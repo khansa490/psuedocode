@@ -1,0 +1,35 @@
+# implement an algorithm where user enters a number and an appropriate month is displayed
+ask a user enter a number
+CASE OF MONTHS
+'1': OUTPUT "JAN"
+'2":OUTPUT"FEB"
+'3':OUTPUT "MARCH"
+'4': OUTPUT "APRIL"
+'5': OUTPUT "MAY"
+:
+:
+:
+OTHERWISE
+OUTPUT "invalid"
+END CASE
+
+2) #  implement an algorithm for determining if an N is a dividor of an n number if s determine its even or odd
+input N amd n number
+if N mod n=0
+"N is a divisor of n"
+   if N mod 2 =0
+   "N is even number"
+   else
+   "N is odd number"
+"N is not divisor"
+
+
+3) implement an algoriyhm for making a small calculator with all the operation (+,-,*,/,%)
+input num1 num2
+CASE OF OPERATION
+'+' :OUTPUT num1+num2
+'-' : OUTPUT Num1-num2
+'*' : OUTPUT num1*num2
+'/' : OUTPUT num1/num2
+'%" : OUTPUT num1%num2
+ENDCASE
