@@ -1,0 +1,26 @@
+#Find the maximum number of any of three variable
+start
+input num1,num2,num3
+if num1>num2 and num1>num3
+print num1,"largest"
+else num2>num1 and num2>num3
+print num2,"largest"
+else num3>num2 and num3>num1
+print num3,"largest"
+else num1=num2=num3
+print"all of them are equal"
+
+# q2) Take 3 variables as input and add them without using + operator
+input num1,num2,num3
+sum=0
+sum=num1-(-num2)-(-num3)
+print sum
+
+
+#q3) create a small calculator  which only does '+' or '-' operator
+input A,B,C
+if A= +
+R=B+C
+else A= -
+R=B-c
+print R
