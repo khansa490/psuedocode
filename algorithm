@@ -33,3 +33,7 @@ CASE OF OPERATION
 '/' : OUTPUT num1/num2
 '%" : OUTPUT num1%num2
 ENDCASE
+
+
+algoritm is there in this file
+
